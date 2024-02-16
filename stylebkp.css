@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(9, 15, 34);
+    color: white;
+}
+.titulo-destaque { color: #f1f6f7; }
+h1 {
+    font-weight: bold;
+}
+.texto-destaque { color: aquamarine;}
+
+span{
+    color: #22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
+button {
+    background-color: rgb(243, 248, 230);
+    color: white;
+
+}
+a {
+    color: rgb(183, 202, 71);
+
+}
+.apresentacao{
+    display: flex;
+    align-items: center;
+}
